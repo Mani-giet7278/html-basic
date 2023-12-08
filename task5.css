@@ -1,0 +1,41 @@
+body{
+    background-color:aquamarine;
+}
+h1{
+    font-size:30px;
+    font-family:verdana;
+    background-color:violet;
+
+    text-align:center;
+    border:2px solid blue;
+    padding:20px;
+    margin:20px;
+
+}
+
+img{
+    align:center;
+    margin:30px;
+
+}
+video{
+    width:80%;
+}
+a{
+    font-size:20px;
+    text-decoration:backdrop;
+    color:red;
+    padding:20px;
+    margin:20px;
+}
+h3{
+    font-size:20px;
+    font-family:verdana;
+    background-color:violet;
+
+    text-align:center;
+    border:2px solid blue;
+    padding:20px;
+    margin:20px;
+
+}
